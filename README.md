@@ -84,11 +84,11 @@ jupyter notebook
 ---
 
 ## 📊 Model Performance 
-Model	        MAE (kWh)	RMSE (kWh)
-Random Forest	170.20	    219.65
-XGBoost	        185.43	    245.11
-LSTM	        0.07	     0.08
-CNN	            0.06	     0.08
+Model	            MAE (kWh)	   RMSE (kWh)
+Random Forest	     170.20	     219.65
+XGBoost	           185.43	     245.11
+LSTM	              0.07	     0.08
+CNN	                0.06	     0.08
 
 ---
 
