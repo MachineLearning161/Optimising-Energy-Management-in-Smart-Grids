@@ -83,14 +83,12 @@ jupyter notebook
 
 ---
 
-## 📊 Model Performance (Example)
-
-| Model       | MAE   | RMSE  | R² Score |
-|-------------|-------|-------|----------|
-| RandomForest|  ...  |  ...  | ...      |
-| XGBoost     |  ...  |  ...  | ...      |
-| LSTM        |  ...  |  ...  | ...      |
-| CNN         |  ...  |  ...  | ...      |
+## 📊 Model Performance 
+Model	        MAE (kWh)	RMSE (kWh)
+Random Forest	170.20	    219.65
+XGBoost	        185.43	    245.11
+LSTM	        0.07	     0.08
+CNN	            0.06	     0.08
 
 ---
 
